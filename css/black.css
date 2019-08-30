@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/back.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+font-size: 0.5rem;
+margin-right: 20%;
+margin-left: 20%;
+margin-top: 0;   
+}
+img {
+    float: right;
+    height: 50px;
+    width: 100px;
+}
+
+.container {
+    background-image: url("../img/square.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+    margin: 100px auto;
+    margin-top: 200px;
+    box-shadow: 5px 10px 18px blue;
+}
+
+.container:hover {
+    transform: rotateZ(-10deg);
+    transition-duration: 6s;
+}
+.img1{
+    width: 600px;
+    height: 400px;
+}
+

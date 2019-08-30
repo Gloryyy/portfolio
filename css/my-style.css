@@ -1,0 +1,24 @@
+/*this is css file*/
+body{
+    font-size: 12px;
+    background-image: url("../img/background_001.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color:black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+div{
+    font-family: 'Fanwood Text', serif;
+    font-size: 20px;
+    text-emphasis-position: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    margin: 30px;
+    margin-top: 150px;
+}
+img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
